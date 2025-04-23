@@ -25,7 +25,11 @@ Este repositorio contiene el material trabajado durante el curso de **Capacitaci
 ├── Sesión 3 (Creación y uso de clases y objetos) 
 ├── Sesión 4 (Constructores e inicialización de objetos)
 ├── Sesión 5 (Herencia y polimorfismo)
-├── proyectos/
+├── Sesión 6 (Integración de polimorfirmo en aplicaciones que hagn uso de herencia)
+├──Sesión 7 (Estructuras de datos)
+├──Sesión 8 (Principios de SOLID)
+├──Sesión 9 (Desarrollo delsistema de gestión de tareas)
+├──Sesión 10 (Repaso integral)
 └── README.md
 ```
 
@@ -33,9 +37,9 @@ Este repositorio contiene el material trabajado durante el curso de **Capacitaci
 
 ## 🛠️ Requisitos
 
-- [Java JDK 17+](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- [Java JDK 21+](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 - IDE como [IntelliJ IDEA](https://www.jetbrains.com/idea/) o [Eclipse](https://www.eclipse.org/)
-- (Opcional) Gradle o Maven para gestión de dependencias
+- Maven para gestión de dependencias
 
 ---
 
