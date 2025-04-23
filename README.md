@@ -6,14 +6,14 @@ Este repositorio contiene el material trabajado durante el curso de **Capacitaci
 
 ## 🚀 Contenido
 
-- ✅ Fundamentos del lenguaje Java
-- ✅ Clases, objetos y encapsulamiento
-- ✅ Herencia, polimorfismo e interfaces
-- ✅ Manejo de excepciones
-- ✅ Colecciones (`List`, `Set`, `Map`)
-- ✅ Entrada/Salida (I/O)
-- ✅ Conexión a bases de datos con JDBC
-- ✅ Proyectos prácticos
+- 01	🛠️ Introducción a la programación orientada a objetos en Java
+- 02	➕ Tipos de datos y sentencias de control
+- 03	🧠 Clases y objetos: crea aplicaciones que permitan el ingreso de información
+- 04	🛡️ Elementos de una clase: implementa validación de datos
+- 05	🧱 Diseño de clases (herencia y polimorfismo): reutiliza código existente por medio de herencia y polimorfismo
+- 06	📊 Colecciones: utiliza diversas estructuras de datos de acuerdo al tipo de aplicación a desarrollar
+- 07	💾 Manejo de archivos: guarda información en un archivo de manera persistente
+- 08	⚙️ Buenas prácticas y manejo de errores en Java
 
 ---
 
@@ -26,10 +26,11 @@ Este repositorio contiene el material trabajado durante el curso de **Capacitaci
 ├── Sesión 4 (Constructores e inicialización de objetos)
 ├── Sesión 5 (Herencia y polimorfismo)
 ├── Sesión 6 (Integración de polimorfirmo en aplicaciones que hagn uso de herencia)
-├──Sesión 7 (Estructuras de datos)
-├──Sesión 8 (Principios de SOLID)
-├──Sesión 9 (Desarrollo delsistema de gestión de tareas)
-├──Sesión 10 (Repaso integral)
+├── Sesión 7 (Estructuras de datos)
+├── Sesión 8 (Principios de SOLID)
+├── Sesión 9 (Desarrollo delsistema de gestión de tareas)
+├── Sesión 10 (Repaso integral)
+├── Ejericios practicos de Repaso
 └── README.md
 ```
 
@@ -38,7 +39,7 @@ Este repositorio contiene el material trabajado durante el curso de **Capacitaci
 ## 🛠️ Requisitos
 
 - [Java JDK 21+](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
-- IDE como [IntelliJ IDEA](https://www.jetbrains.com/idea/) o [Eclipse](https://www.eclipse.org/)
+- IDE como [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - Maven para gestión de dependencias
 
 ---
