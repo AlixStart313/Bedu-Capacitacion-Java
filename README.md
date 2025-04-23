@@ -20,11 +20,11 @@ Este repositorio contiene el material trabajado durante el curso de **Capacitaci
 ## 📁 Estructura del repositorio
 
 ```
-├── fundamentos/
-├── poo/
-├── colecciones/
-├── excepciones/
-├── jdbc/
+├── Sesion 1 (Introducción a Java y primeros pasos)
+├── Sesión 2 (Tipos de datos en Java y uso de var)
+├── Sesión 3 (Creación y uso de clases y objetos) 
+├── Sesión 4 (Constructores e inicialización de objetos)
+├── Sesión 5 (Herencia y polimorfismo)
 ├── proyectos/
 └── README.md
 ```
