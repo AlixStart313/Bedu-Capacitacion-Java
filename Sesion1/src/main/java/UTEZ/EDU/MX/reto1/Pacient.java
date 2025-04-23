@@ -1,4 +1,4 @@
-package UTEZ.EDU.MX;
+package UTEZ.EDU.MX.reto1;
 
 import java.util.Scanner;
 

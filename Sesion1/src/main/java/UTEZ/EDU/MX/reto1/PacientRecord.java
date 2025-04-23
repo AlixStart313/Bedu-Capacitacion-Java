@@ -1,6 +1,4 @@
-package UTEZ.EDU.MX;
-
-import java.util.Scanner;
+package UTEZ.EDU.MX.reto1;
 
 public record PacientRecord(String name, String expedient, int age) {
 
